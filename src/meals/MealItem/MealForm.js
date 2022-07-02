@@ -20,7 +20,7 @@ const MealForm = (props) => {
           onChange={(e) => setAmount(e.target.value)}
         />
       </div>
-      <button>+ Add</button>
+      <button>+ A d d</button>
     </form>
   );
 };

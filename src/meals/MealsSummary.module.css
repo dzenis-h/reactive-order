@@ -5,11 +5,13 @@
   margin: auto;
   margin-top: -10rem;
   position: relative;
-  background-color: #383838;
+  background-color: #000000;
   color: white;
   border-radius: 14px;
   padding: 1rem;
   box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+  position: relative;
+  top: -30rem
 }
 
 .summary h2 {

@@ -1,7 +1,7 @@
 .form {
   margin: 1rem 0;
   max-height: 10rem;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 .control {
@@ -30,7 +30,7 @@
 
 .actions button {
   font: inherit;
-  color: #5a1a01;
+  color: #2389c4;
   cursor: pointer;
   background-color: transparent;
   border: none;
@@ -44,14 +44,14 @@
 }
 
 .actions .submit {
-  border: 1px solid #5a1a01;
-  background-color: #5a1a01;
+  border: 1px solid #2389c4;
+  background-color: #2389c4;
   color: white;
 }
 
 .actions .submit:hover,
 .actions .submit:active {
-  background-color: #7a2706;
+  background-color: #2389c4;
 }
 
 .invalid label {
