@@ -1,7 +1,7 @@
 .form {
   margin: 1rem 0;
   max-height: 10rem;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .control {
@@ -36,6 +36,7 @@
   border: none;
   border-radius: 25px;
   padding: 0.5rem 2rem;
+  margin: 1rem;
 }
 
 .actions button:hover,

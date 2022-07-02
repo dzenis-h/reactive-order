@@ -1,7 +1,8 @@
 import React, { Fragment } from 'react';
-import theme from '../assets/theme.png';
+import theme from '../assets/3.jpg';
 import classes from './Header.module.css';
 import CartItem from '../Header/CartItem';
+import './Mouse.css'
 
 export default function Header(props) {
   return (
@@ -13,7 +14,8 @@ export default function Header(props) {
         </div>
       </header>
       <div className={classes['main-image']}>
-        <img src={theme} alt="ReactiveMeals" />
+        <img src={theme} alt="Reactive Meals"    />
+        
       </div>
     </Fragment>
   );

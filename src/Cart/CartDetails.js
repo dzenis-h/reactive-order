@@ -105,4 +105,4 @@ const CartDetails = (props) => {
   );
 };
 
-export default CartDetails;
+export default CartDetails

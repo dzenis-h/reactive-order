@@ -4,13 +4,13 @@
   margin: 2rem auto;
   animation: meals-appear 1s ease-out forwards;
   font-family: 'Lobster', cursive;
-overflow: hidden;}
+}
 
 .meals ul {
   list-style: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+
 }
 
 .error {

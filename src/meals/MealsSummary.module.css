@@ -10,8 +10,7 @@
   border-radius: 14px;
   padding: 1rem;
   box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
-  position: relative;
-  top: -30rem
+  margin: auto;
 }
 
 .summary h2 {

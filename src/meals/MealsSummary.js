@@ -2,6 +2,7 @@ import classes from './MealsSummary.module.css';
 
 const MealsSummary = () => {
   return (
+    <>
     <section className={classes.summary}>
       <h2>Delicious Food, Delivered To You</h2>
       <p>
@@ -13,6 +14,19 @@ const MealsSummary = () => {
         of course by experienced chefs!
       </p>
     </section>
+    <div className="mouse_scroll">
+		<div className="mouse">
+			<div className="wheel"></div>
+		</div>
+		<div>
+			<span className="m_scroll_arrows unu"></span>
+			<span className="m_scroll_arrows doi"></span>
+			<span className="m_scroll_arrows trei"></span>
+		</div>  
+</div>
+    
+    
+    </>
   );
 };
 

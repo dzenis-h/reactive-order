@@ -5,14 +5,11 @@
   border-bottom: 2px solid #2389c4;
   padding: 1rem 0;
   margin: 1rem 0;
-  overflow: hidden;
 }
 
 .cart-item h2 {
   margin: 0 0 0.5rem 0;
-  color: #2389c4;
-  overflow: hidden;
-
+  color: #363636;
 }
 
 .summary {
@@ -20,15 +17,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  overflow: hidden;
-
 }
 
 .price {
   font-weight: bold;
   color: #2389c4;
-  overflow: hidden;
-
 }
 
 .amount {
@@ -63,7 +56,6 @@
   cursor: pointer;
   margin-left: 1rem;
   margin: 0.25rem;
-  overflow: hidden;
 }
 
 .cart-item button:hover,
